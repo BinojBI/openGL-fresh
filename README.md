@@ -1,1 +1,1 @@
-# openGL-fresh
+# OpenGL-fresh
